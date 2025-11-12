@@ -91,3 +91,5 @@ export const SpendingContext = createContext<{
 //         </div>
 //     );
 // };
+
+<h3>наконец-то работает</h3>
