@@ -25,7 +25,6 @@ const AddSpending = () => {
 
     const [enterMoneyModal, setEnterMoneyModal] = useState(false);
 
-    // const [ updatedSpendings , setUpdatedSpendings ] = useState([])
 
     const handleAddSpending = () => {
 
