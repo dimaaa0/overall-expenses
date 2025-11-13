@@ -20,6 +20,7 @@
     .byCategories {
         width: 100%;
 
+
         &-content {
             position: relative;
             height: 260px;
@@ -142,14 +143,16 @@
                                     padding: 2px 6px;
                                     font-family: 'FL';
                                 }
-                                .date{
+
+                                .date {
                                     display: flex;
                                     font-family: 'FL';
                                     align-items: center;
                                     gap: 4px;
                                     font-size: 14px;
                                     color: #000000;
-                                    img{
+
+                                    img {
                                         width: 14px;
                                         height: 14px;
                                     }
